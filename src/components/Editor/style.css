@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+
+.RichEditor-controls {
+  display: inline;
+}
+.RichEditor-styleButton {
+  cursor: pointer;
+}
+.RichEditor-activeButton {
+  color: blue;
+}
+.formulaEditor button {
+  margin-bottom: 10px;
+}
+.formulaEditor select {
+  margin-top: 10px;
+}
+.formulaEditor button {
+  margin-left: 10px;
+}
